@@ -4,23 +4,12 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodeyvid11&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pablodeyvid11&theme=dark" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodeyvid11&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=pablodeyvid11&theme=dark" /></td>
     </tr>   
   </table>
 </center>  
- <style>
-        ::-webkit-scrollbar-track {
-            background-color: #F4F4F4;
-        }
-        ::-webkit-scrollbar {
-            width: 6px;
-            background: #F4F4F4;
-        }
-        ::-webkit-scrollbar-thumb {
-            background: #dad7d7;
-        }
-</style>
+
 :computer: High Java experience with Spring Boot, C ++ and JavaScript with Node.js
 
 :robot: Robotics experience with arduino 
