@@ -26,9 +26,7 @@
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="32" alt="Java"/>
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="32"  alt="C++" />
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-
 ---
-
 **Frameworks, technologies and others**
 <br>
 <img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" height="32" alt="SpringBoot"/>
