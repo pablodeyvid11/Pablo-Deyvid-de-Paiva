@@ -24,14 +24,14 @@
 **Programming languages**
 <br>
 <br>
-<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="32" alt="Java"/>
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="32"  alt="C++" />
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+<a target="_blank" href="https://www.oracle.com/br/java/"><img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="32" alt="Java"/><a/>
+<a target="_blank" href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="32"  alt="C++" /><a/>
+<a target="_blank" href="https://nodejs.org/en/"><img height="32" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Javascript"/><a/>
 ---
 **Frameworks, technologies and others**
 <br>
 <br>
-<a style="text-decoration:none;" target="_blank" href="https://spring.io"><img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" height="32" alt="SpringBoot"/> <a/>
+<a target="_blank" href="https://spring.io"><img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" height="32" alt="SpringBoot"/> <a/>
 <img src="https://img.icons8.com/color/452/spring-logo.png" height="32"  alt="Spring" />
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height="32"  alt="Arduino" />
 <img src="https://play-lh.googleusercontent.com/9uPIhxax-m2nFtQLOLYj23bt_Uhq8a8Nzz4zzo7SNEZB99rA3fxHKqnPtcuY3ndCig" height="32"  alt="RegEx" />
