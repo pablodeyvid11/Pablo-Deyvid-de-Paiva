@@ -31,7 +31,7 @@
 **Frameworks, technologies and others**
 <br>
 <br>
-<a style="text-decoration:none;" target="blank_" href="https://spring.io"><img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" height="32" alt="SpringBoot"/> <a/>
+<a style="text-decoration:none;" target="_blank" href="https://spring.io"><img src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" height="32" alt="SpringBoot"/> <a/>
 <img src="https://img.icons8.com/color/452/spring-logo.png" height="32"  alt="Spring" />
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height="32"  alt="Arduino" />
 <img src="https://play-lh.googleusercontent.com/9uPIhxax-m2nFtQLOLYj23bt_Uhq8a8Nzz4zzo7SNEZB99rA3fxHKqnPtcuY3ndCig" height="32"  alt="RegEx" />
