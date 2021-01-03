@@ -18,7 +18,7 @@
  
 :cupid: I love computer networks, backend languages, embedded systems and coffee
 
-:star2: I love Harry Potter, Clarice Lispéctor, Machado de assis and philosophy in general
+:star2: I love Harry Potter, Clarice Lispéctor, Machado de Assis and philosophy in general
 
 ---
 **Programming languages**
