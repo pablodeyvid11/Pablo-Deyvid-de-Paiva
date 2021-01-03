@@ -1,4 +1,4 @@
-[![capa](https://github.com/pablodeyvid11/Pablo-Deyvid-de-Paiva/blob/main/fundo%20github.png)](https://github.com/pablodeyvid11?tab=repositories)
+[![capa](https://github.com/pablodeyvid11/pablodeyvid11/blob/main/github%20background.png)](https://github.com/pablodeyvid11?tab=repositories)
 ---
 
 <center style="overflow:hidden">
