@@ -1,7 +1,7 @@
 [![capa](https://github.com/pablodeyvid11/pablodeyvid11/blob/main/github%20background.png)](https://github.com/pablodeyvid11?tab=repositories)
 ---
 
-<center style="overflow:hidden">
+<center>
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodeyvid11&hide=html&layout=compact&theme=dark" /></td>
