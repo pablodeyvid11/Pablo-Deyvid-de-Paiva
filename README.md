@@ -27,6 +27,7 @@
 <a target="_blank" href="https://www.oracle.com/br/java/"><img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="32" alt="Java"/><a/>
 <a target="_blank" href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="32"  alt="C++" /><a/>
 <a target="_blank" href="https://nodejs.org/en/"><img height="32" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Javascript"/><a/>
+<a target="_blank" href="https://www.typescriptlang.org"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript"/><a/>
 ---
 **Frameworks, technologies and others**
 <br>
