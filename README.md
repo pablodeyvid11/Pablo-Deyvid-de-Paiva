@@ -10,15 +10,15 @@
   </table>
 </center>  
 
-:computer: High Java experience with Spring Boot, C ++ and JavaScript with Node.js
+:computer: High Java experience with Spring Boot, C ++ and JavaScript with Node.js;
 
-:robot: Robotics experience with arduino 
+:robot: Robotics experience with arduino;
 
-:books: IFRN student in technical course in computer science
+:books: IFRN student in technical course in computer science;
  
-:cupid: I love computer networks, backend languages, embedded systems and coffee
+:cupid: I love computer networks, backend languages, embedded systems and coffee;
 
-:star2: I love Harry Potter, Clarice Lispéctor, Machado de Assis and philosophy in general
+:star2: I love Harry Potter, Clarice Lispéctor, Machado de Assis and philosophy in general.
 
 ---
 **Programming languages**
