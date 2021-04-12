@@ -10,7 +10,7 @@
   </table>
 </center>  
 
-:computer: High Java experience with Spring Boot, C ++ and JavaScript with Node.js;
+:computer: High Java experience with Spring Boot and medium experience with C ++ and JavaScript with Node.js, react and react-native;
 
 :robot: Robotics experience with arduino;
 
@@ -18,7 +18,7 @@
  
 :cupid: I love computer networks, backend languages, embedded systems and coffee;
 
-:star2: I love Harry Potter, Clarice Lispéctor, Machado de Assis and philosophy in general.
+:star2: I love Harry Potter, Netflix and sci-fi in general.
 
 ---
 **Programming languages**
