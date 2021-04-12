@@ -53,9 +53,6 @@
 <a target="_blank" href="https://www.mysql.com">
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" height="32"  alt="MySql" />
 <a/>
-<a target="_blank" href="https://www.mongodb.com/2">
-  <img src="https://img.icons8.com/color/452/mongodb.png" height="32"  alt="MongoDb" />
-<a/>
 <a target="_blank" href="https://www.postgresql.org">
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="32"  alt="PostgreSQL" />
 <a/>
@@ -70,3 +67,10 @@
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/pablo-deyvid-de-paiva-7a59261a1/)
 [![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/pablo_deyvid)
 ![](https://img.shields.io/github/followers/lauraDamacenoAlmeida?style=social) <img src="http://views.whatilearened.today/views/github/pablodeyvid11/views.svg"/>
+
+
+  <!-- 
+<a target="_blank" href="https://www.mongodb.com/2">
+  <img src="https://img.icons8.com/color/452/mongodb.png" height="32"  alt="MongoDb" />
+<a/>
+  --> 
