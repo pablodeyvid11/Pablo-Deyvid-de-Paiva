@@ -56,6 +56,9 @@
 <a target="_blank" href="https://www.mongodb.com/2">
   <img src="https://img.icons8.com/color/452/mongodb.png" height="32"  alt="MongoDb" />
 <a/>
+<a target="_blank" href="https://www.postgresql.org">
+  <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="32"  alt="PostgreSQL" />
+<a/>
 <a target="_blank" href="https://www.blender.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" height="32"  alt="Blender" />
 <a/>
