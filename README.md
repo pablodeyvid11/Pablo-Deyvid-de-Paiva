@@ -41,14 +41,8 @@
 <a target="_blank" href="https://www.arduino.cc">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height="32"  alt="Arduino" />
 <a/>
-<a target="_blank" href="https://pt.wikipedia.org/wiki/Expressão_regular">
-  <img src="https://play-lh.googleusercontent.com/9uPIhxax-m2nFtQLOLYj23bt_Uhq8a8Nzz4zzo7SNEZB99rA3fxHKqnPtcuY3ndCig" height="32"  alt="RegEx" />
-<a/>
 <a target="_blank" href="https://hibernate.org">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" height="32"  alt="Hibernate" />
-<a/>
-<a target="_blank" href="https://www.docker.com">
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="32"  alt="Docker" />
 <a/>
 <a target="_blank" href="https://www.mysql.com">
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" height="32"  alt="MySql" />
@@ -56,11 +50,17 @@
 <a target="_blank" href="https://www.postgresql.org">
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="32"  alt="PostgreSQL" />
 <a/>
-<a target="_blank" href="https://www.blender.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" height="32"  alt="Blender" />
+<a target="_blank" href="https://pt.wikipedia.org/wiki/Expressão_regular">
+  <img src="https://play-lh.googleusercontent.com/9uPIhxax-m2nFtQLOLYj23bt_Uhq8a8Nzz4zzo7SNEZB99rA3fxHKqnPtcuY3ndCig" height="32"  alt="RegEx" />
+<a/>
+<a target="_blank" href="https://www.docker.com">
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="32"  alt="Docker" />
 <a/>
 <a target="_blank" href="https://git-scm.com">
   <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" height="32"  alt="git" />
+<a/>
+<a target="_blank" href="https://www.blender.org">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" height="32"  alt="Blender" />
 <a/>
 ---
 
