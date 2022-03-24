@@ -14,7 +14,7 @@
 
 :robot: Robotics experience with arduino;
 
-:books: IFRN student in technical course in computer science;
+:books: Graduating in the Bachelor's Degree in Information Technology at the Federal University of Rio Grande do Norte (UFRN);
  
 :cupid: I love computer networks, backend languages, embedded systems and coffee;
 
