@@ -54,7 +54,7 @@
   <img src="https://play-lh.googleusercontent.com/9uPIhxax-m2nFtQLOLYj23bt_Uhq8a8Nzz4zzo7SNEZB99rA3fxHKqnPtcuY3ndCig" height="32"  alt="RegEx" />
 <a/>
 <a target="_blank" href="https://www.docker.com">
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="32"  alt="Docker" />
+  <img src="https://www.ufrgs.br/gasp/wp-content/uploads/2021/04/docker-logo-7bcbbab5e4c7c9a94f7a32016ae8f827.png" height="32"  alt="Docker" />
 <a/>
 <a target="_blank" href="https://git-scm.com">
   <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" height="32"  alt="git" />
