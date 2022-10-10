@@ -59,8 +59,8 @@
 <a target="_blank" href="https://git-scm.com">
   <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" height="32"  alt="git" />
 <a/>
-<a target="_blank" href="https://www.blender.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" height="32"  alt="Blender" />
+<a target="_blank" href="https://www.thymeleaf.org/">
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" height="32"  alt="Thymeleaf" />
 <a/>
 ---
 
