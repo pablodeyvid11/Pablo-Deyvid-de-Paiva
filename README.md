@@ -18,7 +18,7 @@
  
 :cupid: I love computer networks, backend languages, embedded systems and coffee;
 
-:star2: I love Harry Potter, Netflix and sci-fi in general.
+:star2: I love Game of Thrones, history books and the TV serie DARK.
 
 ---
 **Programming languages**
