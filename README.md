@@ -10,9 +10,7 @@
   </table>
 </center>  
 
-:computer: High Java experience with Spring Boot and medium experience with C ++ and JavaScript with Node.js, react and react-native;
-
-:robot: Robotics experience with arduino;
+:computer: Portfolio website <a target="_blank" href="https://portfolio.ppaiva.dev.br">here<a/>;
 
 :books: Graduating in the Bachelor's Degree in Information Technology at the Federal University of Rio Grande do Norte (UFRN);
  
